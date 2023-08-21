@@ -119,7 +119,7 @@ include('h.php');
             <img src="backg.webp" class="bch" alt="">
         </div>
         <div class="row">
-            <h2 class="bsccolor">BEST SOFTWARE SOLUTION</h2>
+            <h2 class="bsccolor"> SOFTWARE SOLUTION</h2>
         </div>
         <div class="row">
             <h2 class="bsccolor2">Lets Grow Your Business Together With Bizvoice</h2>
